@@ -2,7 +2,7 @@
   <h1>Hi there 👋, I'm Álvaro!</h1>
   <h3>Senior Frontend Engineer & Tech Lead</h3>
   <p>
-    <a href="https://www.linkedin.com/in/álvaro-díaz-vidal-107311144" target="_blank">
+    <a href="https://www.linkedin.com/in/varodv" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:varodv@gmail.com">
