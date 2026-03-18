@@ -8,6 +8,9 @@
     <a href="mailto:varodv@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://github.com/alvarodE" target="_blank">
+      <img src="https://img.shields.io/badge/@alvarodE-181717?style=for-the-badge&logo=github&logoColor=white" alt="@alvarodE" />
+    </a>
   </p>
   <p>📍 Asturias, Spain</p>
 </div>
