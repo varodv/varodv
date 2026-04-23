@@ -19,9 +19,9 @@
 
 ### 👨‍💻 About Me
 
-* **Senior Frontend Engineer & Tech Lead** with over **10 years of experience** architecting and building highly scalable, high-traffic web applications for large e-commerce platforms serving **400M+** users.
-* Specialized in the **JavaScript/TypeScript** ecosystem with deep expertise in modern frameworks (**React, Vue**) and solution architecture. Strong background in **data visualization**, having designed and developed complex analysis and monitoring tools using **D3**.
-* Experienced in leading cross-functional teams of **8+** engineers and developing end-to-end digital products in collaboration with design, backend, and product teams.
+* **Senior Frontend Engineer & Tech Lead** with over **11 years of experience** architecting and building highly scalable, high-traffic web applications for large e-commerce platforms serving **400M+ users**.
+* Specialized in the **JavaScript/TypeScript** ecosystem with deep expertise in modern frameworks (**React, Vue.js**) and solution architecture. Strong background in **data visualization**, having designed and developed complex analysis and monitoring tools with **10M+ daily queries** using **D3**.
+* Experienced in leading cross-functional teams of **8+ engineers** and developing end-to-end digital products in collaboration with design, backend, and product teams.
 
 ---
 
