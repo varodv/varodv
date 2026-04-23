@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋, I'm Álvaro!</h1>
-  <h3>Senior Frontend Engineer & Tech Lead</h3>
+  <h3>Senior Frontend Engineer • Tech Lead • Data Visualization</h3>
   <p>
     <a href="https://www.linkedin.com/in/varodv" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/@alvarodE-181717?style=for-the-badge&logo=github&logoColor=white" alt="@alvarodE" />
     </a>
   </p>
-  <p>📍 Asturias, Spain</p>
+  <p>📍 Asturias, Spain • Remote</p>
 </div>
 
 ---
